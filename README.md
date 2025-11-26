@@ -28,4 +28,4 @@ The audit covered key regulatory frameworks:
 
 ### 📂 Repository Contents
 
-* [**Controls and compliance checklist.pdf**](./Controls%20and%20compliance%20checklist.pdf): The full, detailed compliance report and security audit checklist.
+* ['Controls and compliance checklist.pdf'](./Controls%20and%20compliance%20checklist.pdf): The full, detailed compliance report and security audit checklist.
